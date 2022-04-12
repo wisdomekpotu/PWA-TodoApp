@@ -28,7 +28,7 @@
   ],
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
-  "start_url": "/Todo-PWA/index.html",
+  "start_url": "/PWA-TodoApp/",
   "display": "standalone",
   "orientation": "portrait"
 }
