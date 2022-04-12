@@ -1,0 +1,34 @@
+{
+  "name": "Todo PWA",
+  "short_name": "Todo",
+  "icons": [
+    {
+      "src": "./assets/icon8-100.png",
+      "sizes": "100x100",
+      "type": "image/png"
+     
+    },
+    {
+      "src": "./assets/icon8-150.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon8-250.png",
+      "sizes": "250x250",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icon8-500.png",
+      "sizes": "500x500",
+      "type": "image/png"
+  
+    }
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/Todo-PWA/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
