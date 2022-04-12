@@ -3,24 +3,24 @@
   "short_name": "Todo",
   "icons": [
     {
-      "src": "./assets/icon8-100.png",
+      "src": "./assets/icon-100.png",
       "sizes": "100x100",
       "type": "image/png"
      
     },
     {
-      "src": "./assets/icon8-150.png",
+      "src": "./assets/icon-150.png",
       "sizes": "150x150",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
+      
     },
     {
-      "src": "./assets/icon8-250.png",
+      "src": "./assets/icon-250.png",
       "sizes": "250x250",
       "type": "image/png"
     },
     {
-      "src": "./assets/icon8-500.png",
+      "src": "./assets/icon-500.png",
       "sizes": "500x500",
       "type": "image/png"
   
