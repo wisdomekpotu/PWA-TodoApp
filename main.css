@@ -39,7 +39,7 @@ h1{
 	text-align: center;
 }
 #new-task-form {
-	display: flex;
+	display: grid;
 }
 
 input, button {
@@ -71,6 +71,7 @@ input, button {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	cursor: pointer;
+	margin-top: 12px;
 	transition: 0.4s;
 }
 
