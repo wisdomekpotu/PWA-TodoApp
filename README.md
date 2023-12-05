@@ -1,5 +1,7 @@
 # PWA-TodoApp
-A simple Todo PWA(Progressive Web Application) using indexedDB as database and Workbox for  offline viewing.
+A simple Todo PWA(Progressive Web Application) using indexedDB as database and Workbox for  offline viewing.  
+
+See https://medium.com/stackanatomy/building-a-mobile-app-using-html-css-and-javascript-b3a8fd37723d for more details.
 
 ## Desktop Browser
 &nbsp;  
